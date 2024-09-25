@@ -16,6 +16,7 @@ mediaSend/*
 !mediaSend/nota-de-voz.mp3
 .env
 .wwebjs_auth
+bot_sessions/
 /session
 /session/*
 /tokens
